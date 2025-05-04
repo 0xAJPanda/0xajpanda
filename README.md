@@ -6,9 +6,9 @@
 
 ---
 
-### 🧠 About Us
+###  About Me
 
-AJ Panda is a collective of independent node runners passionate about decentralized AI, ZK tech, and blockchain infrastructure. We're building a green validator jungle 🐼🌱 — and yes, it might be sentient.
+AJPanda is a collective of independent node runners passionate about decentralized AI, ZK tech, and blockchain infrastructure. We're building a green validator jungle 🐼🌱 — and yes, it might be sentient.
 
 - 🔭 Currently running decentralized AI, validator, DA & storage nodes  
 - 🧪 Active on testnets like 0G Labs, Gensyn, Warden, T3rn, Ritual, Tacchain & more  
