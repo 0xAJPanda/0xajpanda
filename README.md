@@ -1,5 +1,5 @@
 <!-- Banner -->
-<h1 align="center">👋 Hi, we’re AJ Panda! 🐼</h1>
+<h1 align="center">👋 Hi, I'am AJPanda! 🐼</h1>
 <p align="center">
   Keeping blockchain networks secure and smooth — one modular node at a time.
 </p>
