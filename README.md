@@ -40,10 +40,6 @@ AJPanda is a collective of independent node runners passionate about decentraliz
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xAJPanda&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=0xAJPanda&theme=radical&hide_border=false" alt="GitHub Streak" />
 </p>
 
